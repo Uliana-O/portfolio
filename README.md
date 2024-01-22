@@ -33,7 +33,10 @@
 
 
 
-*Issues:*
+
+
+
+*Issues: *
 
   [Issues](https://github.com/Uliana-O/portfolio/issues)
   

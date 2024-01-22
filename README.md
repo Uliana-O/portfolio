@@ -32,7 +32,8 @@
 - [расчет индекса массы тела](https://github.com/Uliana-O/massBody)
 
 
-* Issues: *
+
+*Issues:*
 
   [Issues](https://github.com/Uliana-O/portfolio/issues)
   

@@ -42,6 +42,6 @@
 
 
   *В рамках выполнения других тестовых заданий на вакансии:*
-  
+  [дефекты  lucky-group](https://docs.google.com/spreadsheets/d/1UykEpWaSHbErcT_Zxi6mrSEpILnkFx2a3pUFs7NThuk/edit)
 
 

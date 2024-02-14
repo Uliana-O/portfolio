@@ -30,6 +30,18 @@
 - [проект на базе maven](https://github.com/Uliana-O/maven)
   
 - [расчет индекса массы тела](https://github.com/Uliana-O/massBody)
+
+
+
+
+
+
+*Issues:*
+
+  [Issues](https://github.com/Uliana-O/portfolio/issues)
+
+
+  *В рамках выполнения других тестовых заданий на вакансии:*
   
 
 

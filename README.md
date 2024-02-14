@@ -39,6 +39,9 @@
 *Issues:*
 
   [Issues](https://github.com/Uliana-O/portfolio/issues)
+
+
+  *В рамках выполнения других тестовых заданий на вакансии:*
   
 
 
